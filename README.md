@@ -1,1 +1,3 @@
 # corporate_joker
+
+This online application called Corporate Joker was trained using a tonne of data from various humour sites and is based on nlp. Aside from determining if the input is funny or not, this programme will respond to you with jokes based on the situations you provide. Corporate Joker was developed using the pre-trained GPT 2 model for the aim of generating jokes. It has the ability to both offer random jokes and jokes based on specific input jokes. This web application can generate a whole new joke using NLP by selecting the best joke from the vast datasets related to a specific input. The generated joke is then shown on the screen with precision humour detection capabilities.
